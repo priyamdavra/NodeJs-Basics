@@ -1,0 +1,80 @@
+[
+    {
+        "id":0,
+        "name":"Apple Iphone SE",
+        "color":"Black",
+        "ROM":128,
+        "price":990,
+        "modename":"Iphone SE",
+        "modelNumber":"MHGT3HN/A",
+        "size":"11.94 cm (4.7 inch) Retina HD Display",
+        "camera":"12MP Rear Camera / 7MP Front Camera",
+        "Description":"Widgets Screen HD LCD",
+        "ProductImage":"https://atlas-content-cdn.pixelsquid.com/stock-images/iphone-x-smartphone-xwVXQLD-600.jpg"
+    },
+    {
+        "id":1,
+        "name":"Apple Iphone",
+        "color":"Silver",
+        "ROM":356,
+        "price":5656,
+        "modename":"SE",
+        "modelNumber":"MHGT3HN/A",
+        "size":"11.94 cm (4.7 inch) Retina HD Display",
+        "camera":"12MP Rear Camera / 7MP Front Camera",
+        "Description":"Widgets Screen HD LCD",
+        "ProductImage":"https://atlas-content-cdn.pixelsquid.com/stock-images/iphone-x-smartphone-xwVXQLD-600.jpg"
+    },
+    {
+        "id":2,
+        "name":"Apple Iphone 45 pro",
+        "color":"Red",
+        "ROM":252,
+        "price":1000,
+        "modename":"Iphone SE",
+        "modelNumber":"MHGT3HN/A",
+        "size":"11.94 cm (4.7 inch) Retina HD Display",
+        "camera":"12MP Rear Camera / 7MP Front Camera",
+        "Description":"Widgets Screen HD LCD",
+        "ProductImage":"https://atlas-content-cdn.pixelsquid.com/stock-images/iphone-x-smartphone-xwVXQLD-600.jpg"
+    },
+    {
+        "id":3,
+        "name":"Iphone SE",
+        "color":"Grey",
+        "ROM":144,
+        "price":458,
+        "modename":"Iphone SE",
+        "modelNumber":"MHGT3HN/A",
+        "size":"11.94 cm (4.7 inch) Retina HD Display",
+        "camera":"12MP Rear Camera / 7MP Front Camera",
+        "Description":"Widgets Screen HD LCD",
+        "ProductImage":"https://atlas-content-cdn.pixelsquid.com/stock-images/iphone-x-smartphone-xwVXQLD-600.jpg"
+    },
+    {
+        "id":4,
+        "name":"Apple SE",
+        "color":"White",
+        "ROM":256,
+        "price":999,
+        "modename":"Iphone SE",
+        "modelNumber":"MHGT3HN/A",
+        "size":"11.94 cm (4.7 inch) Retina HD Display",
+        "camera":"12MP Rear Camera / 7MP Front Camera",
+        "Description":"Widgets Screen HD LCD",
+        "ProductImage":"https://atlas-content-cdn.pixelsquid.com/stock-images/iphone-x-smartphone-xwVXQLD-600.jpg"
+    },
+    {
+        "id":5,
+        "name":"Apple Iphone 12",
+        "color":"Green",
+        "ROM":156,
+        "price":789,
+        "modename":"Iphone SE",
+        "modelNumber":"MHGT3HN/A",
+        "size":"11.94 cm (4.7 inch) Retina HD Display",
+        "camera":"12MP Rear Camera / 7MP Front Camera",
+        "Description":"Widgets Screen HD LCD",
+        "ProductImage":"https://atlas-content-cdn.pixelsquid.com/stock-images/iphone-x-smartphone-xwVXQLD-600.jpg"
+    }
+]
